@@ -1,2 +1,2 @@
-Initialized empty Git repository in /home/rani/git_workspace/.git/
+/home/rani/git_workspace/.git/
 
